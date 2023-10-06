@@ -19,7 +19,7 @@ public class Streamstest1 {
 		names.add("Alek");
 		names.add("Darko");
 		names.add("Marko");
-		names.add("Ivan");
+		names.add("Anica");
 		names.add("Bojana");
 		int count=0;
 		for(int i=0;i<names.size();i++);
